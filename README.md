@@ -1,6 +1,6 @@
 **What is this?**
 
-Thirty (yes, thirty) small webapps I made for Wes Bos' challenge [JavaScript 30](https://javascript30.com/).
+Thirty small webapps I made for Wes Bos' challenge [JavaScript 30](https://javascript30.com/).
 
 **What did I learn?**
 
